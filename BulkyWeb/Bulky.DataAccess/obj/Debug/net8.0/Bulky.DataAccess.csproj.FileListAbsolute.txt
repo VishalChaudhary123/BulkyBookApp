@@ -1,0 +1,106 @@
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+D:\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll

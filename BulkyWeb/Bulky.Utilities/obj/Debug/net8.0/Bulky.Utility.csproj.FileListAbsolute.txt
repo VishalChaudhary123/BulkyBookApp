@@ -1,0 +1,59 @@
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.dll
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\Core Projects\BulkyWeb\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\ref\Bulky.Utility.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\ref\Bulky.Utility.dll
+D:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.deps.json
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.dll
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.dll
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\refint\Bulky.Utility.dll
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.pdb
+E:\Core Projects\BulkyWeb\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\ref\Bulky.Utility.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\ref\Bulky.Utility.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.deps.json
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\refint\Bulky.Utility.dll
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\Bulky.Utility.pdb
+E:\Core Projects\BulkyBookApp\With Identity\BulkyWeb\Bulky.Utilities\obj\Debug\net8.0\ref\Bulky.Utility.dll

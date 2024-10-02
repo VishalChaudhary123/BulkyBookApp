@@ -1,0 +1,44 @@
+﻿@page
+@model BulkyWebRazor_Temp.Pages.Categories.DeleteModel
+@{
+}
+
+
+
+<form asp-controller="Category" asp-action="Delete" method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Delete Category</h2>
+            <hr />
+        </div>
+        <input asp-for="Category.Id" hidden />
+        <div class="mb-3 row p-1">
+            <label class="p-0" asp-for="Category.Name"></label>
+            <input type="text" class="form-control" disabled asp-for="Category.Name" />
+
+        </div>
+        <div class="mb-3 row p-1">
+            <label class="p-0">Display Order</label>
+            <input type="number" class="form-control" disabled asp-for="Category.DisplayOrder" />
+
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-4 col-lg-3">
+                <button type="submit" class="btn btn-danger form-control">Delete</button>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3">
+                <a asp-page="/categories/index"  class="btn btn-outline-secondary border form-control"> Back to List</a>
+            </div>
+        </div>
+
+
+    </div>
+</form>
+
+
+@section Scripts {
+
+    @* Clinet Side Validation *@
+    <partial name="_ValidationScriptsPartial">
+        </>
+}
